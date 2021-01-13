@@ -28,6 +28,8 @@
 <code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
 <code><img src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" alt="Tensorflow"></code>
+<code><img src="https://freesvg.org/img/Chess-Knight.png" height="30" alt="Tensorflow"></code>
+
 
 <a href="https://github.com/pratik-99/">
   <img align="right" height="20%" width="20%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
