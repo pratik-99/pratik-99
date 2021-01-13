@@ -25,7 +25,6 @@
 
 <code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
-
 <code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
 
