@@ -28,7 +28,11 @@
 <code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
 <code><img src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" alt="Tensorflow"></code>
-<code><img src="https://freesvg.org/img/Chess-Knight.png" height="30" alt="Tensorflow"></code>
+
+### Personal interest :-
+
+**_I enjoy playing chess  <code><img src="https://freesvg.org/img/Chess-Knight.png" height="30" alt="Tensorflow"></code>
+
 
 
 <a href="https://github.com/pratik-99/">
