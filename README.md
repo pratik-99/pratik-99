@@ -31,7 +31,7 @@
 
 ### Personal interest :-
 
-##### I enjoy playing chess  <code><img src="https://freesvg.org/img/Chess-Knight.png" height="30" alt="Tensorflow"></code>
+#### I enjoy playing chess  <code><img src="https://freesvg.org/img/Chess-Knight.png" height="30" alt="Tensorflow"></code>
 
 
 
