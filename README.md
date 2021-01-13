@@ -17,6 +17,24 @@
 </a>
 <br>
 
+### About Me :-
+
+**_I am an enthusiastic learner with a keen interest to learn new things and develop myself through my regular hard work and self-improvement. I love to solve problems and committed to strengthening my abilities by contributing to open sources and working as a collaborative team person._**
+<br>
+### Tech Stack:-
+
+<code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
+<code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
+<code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
+<code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
+
+<a href="https://github.com/pratik-99/">
+  <img align="right" height="20%" width="20%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+</a>    
+    
+
+- 🤝 I’m open to collaborate on **Python projects**.
+
 <!--
 **pratik-99/pratik-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
