@@ -1,16 +1,16 @@
 # Hey there !! This is PRATIK <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/pratik-poojary-8a30421b7/">
-  <img align="left" alt="Pratik's LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1610561175~hmac=885f7890cfa836d049cf25c281c083a1" />
+  <img align="left" alt="Pratik's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/pratik.poojary/">
-  <img align="left" alt="Pratik's Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1610561571~hmac=55642835e6a6cc8671113f9533124abd" />
+  <img align="left" alt="Pratik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/pratik.poojary.31/">
-  <img align="left" alt="Pratik's Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-256.png" />
+  <img align="left" alt="Pratik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="mailto:ppoojary393@gmail.com">
-  <img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1610561836~hmac=c0525d9ef77f4bd15a06c6d206f5beec" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/pratik-99/">
  <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
