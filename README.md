@@ -21,7 +21,7 @@
 
 **_I am an enthusiastic learner with a keen interest to learn new things and develop myself through my regular hard work and self-improvement. I love to solve problems and committed to strengthening my abilities by contributing to open sources and working as a collaborative team person._**
 <br>
-### Tech Stack:-
+## Tech Stack:-
 
 <code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
@@ -30,7 +30,7 @@
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
 <code><img src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" alt="Tensorflow"></code>
 
-### Personal interest :-
+## Personal interest :-
 
 **_I enjoy playing chess._**  <code><img src="https://freesvg.org/img/Chess-Knight.png" height="30" alt="Tensorflow"></code>
 
@@ -41,7 +41,13 @@
 </a>    
     
 
-- 🤝 I’m open to collaborate on **Python projects**.
+## Github Stats 📊
+<details>
+<summary><b>Most Used Languages</b></summary>
+<a href="https://github.com/pratik-99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-99&layout=compact&theme=radical&langs_count=8&hide=html,css">
+</a>
+</details>
 
 <!--
 **pratik-99/pratik-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
