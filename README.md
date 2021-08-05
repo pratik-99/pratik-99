@@ -25,7 +25,7 @@
 
 <code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
 <code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="30" alt="html"></code>
+<code><img src="https://cdn.svgporn.com/logos/html-5.svg" height="30" alt="html"></code>
 <code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
 <code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
 <code><img src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" alt="Tensorflow"></code>
