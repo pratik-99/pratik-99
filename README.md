@@ -22,15 +22,15 @@
 **_I am an enthusiastic learner with a keen interest to learn new things and develop myself through my regular hard work and self-improvement. I love to solve problems and committed to strengthening my abilities by contributing to open sources and working as a collaborative team person._**
 <br>
 ## Tech Stack:-
-
-<code><img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python"></code>
-<code><img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="JavaScript"></code>
-<code><img src="https://cdn.svgporn.com/logos/html-5.svg" height="30" alt="html"></code>
-<code><img src="https://cdn.svgporn.com/logos/mysql.svg" height="30" alt="MySQL"></code>
-<code><img src="https://cdn.svgporn.com/logos/git.svg" height="30" alt="Git"></code>
-<code><img src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" alt="Tensorflow"></code>
-<code><img src="https://cdn.svgporn.com/logos/flask.svg" height="30" alt="Flask"></code>
-<code><img src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="React"></code>
+<div>
+  <a href="https://www.python.org/"><img align="center" height="26" width="26"src="https://cdn.svgporn.com/logos/python.svg"  alt="Python"><code>Python</code></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" height="26" width="26" src="https://cdn.svgporn.com/logos/javascript.svg"  alt="JavaScript"><code>Javascript</code></a>
+  <a href="https://html.spec.whatwg.org/"><img align="center" height="26" width="26" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html"><code>HTML</code></a>
+  <a href="https://www.mysql.com/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/mysql.svg"  alt="MySQL"><code>SQL</code></a>
+<a><img align="center" height="50" width="50" src="https://cdn.svgporn.com/logos/git.svg"  alt="Git" style="max-width:100%";><code>GIT</code></a>
+<a><img align="center" src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" width="30" alt="Tensorflow"><code>Tensorflow</code></a>
+<a href="https://reactjs.org/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="React"><code>React</code></a>
+</div>  
 ## Personal Interest :-
 
 **_I enjoy playing chess._**  <code><img src="https://freesvg.org/img/Chess-Knight.png" height="30" alt="Tensorflow"></code>
