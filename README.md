@@ -30,7 +30,8 @@
 <a><img align="center" height="55" width="55" src="https://cdn.svgporn.com/logos/git.svg"  alt="Git" style="max-width:100%";><code>GIT</code></a>
 <a><img align="center" src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" width="30" alt="Tensorflow"><code>Tensorflow</code></a>
 <a href="https://reactjs.org/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="React"><code>React</code></a>
-</div>  
+</div> 
+
 ## Personal Interest :-
 
 **_I enjoy playing chess._**  <code><img src="https://freesvg.org/img/Chess-Knight.png" height="30" alt="Tensorflow"></code>
