@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there !! This is PRATIK <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h2 align="center">Connect with me</h2>
+<h2 align="center">🔗Connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/pratik-poojary-8a30421b7/">
   <img align="center" alt="Pratik's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,12 +22,15 @@
 </p>  
 <br>
 
-<h2 align="center"> About Me :-</h2>
+<h2 align="center"> About Me 🧑</h2>
 
-<p align="center">I am an enthusiastic learner with a keen interest to learn new things and develop myself through my regular hard work and self-improvement. I love to solve problems and committed to strengthening my abilities by contributing to open sources and working as a collaborative team person.</p>
+<p align="center" >💻Currently working at Wonderbiz Technologies as Software Engineer. <br>📱Learning React, C# .net for my projects.<br>5⭐ gold in python hackerrank </p>
 
 
-<h2 align="center"> Tech Stack:-</h2>
+
+
+
+<h2 align="center"> Tech Stack 👨‍💻</h2>
 <div align="center">
   <a href="https://www.python.org/"><img align="center" height="26" width="26"src="https://cdn.svgporn.com/logos/python.svg"  alt="Python"><code>Python</code></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" height="26" width="26" src="https://cdn.svgporn.com/logos/javascript.svg"  alt="JavaScript"><code>Javascript</code></a>
