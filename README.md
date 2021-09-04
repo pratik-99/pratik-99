@@ -24,7 +24,7 @@
 
 <h2 align="center"> About Me 🧑</h2>
 
-<p align="center" >💻Currently working at Wonderbiz Technologies as Software Engineer. <br>📱Learning React, C# .net for my projects.<br>5⭐ gold in python hackerrank </p>
+<p align="center" >💻Currently working at Wonderbiz Technologies as Software Engineer. <br>📱Learning React and C# for my projects.<br>5⭐ gold in python hackerrank </p>
 
 
 
