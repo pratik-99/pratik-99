@@ -24,7 +24,7 @@
 
 <h2 align="center"> About Me 🧑</h2>
 
-<p align="center" >💻Currently working at Wonderbiz Technologies as Software Engineer. <br>📱Learning React and C# for my projects.<br>5⭐ gold in python hackerrank </p>
+<p align="center" >💻I’m Currently looking for new opportunities. <br>📱I’m currently Learning React and C# for my projects.<br>5⭐ gold in python hackerrank </p>
 
 
 
@@ -33,13 +33,13 @@
 <h2 align="center"> Tech Stack 👨‍💻</h2>
 <div align="center">
   <a href="https://www.python.org/"><img align="center" height="26" width="26"src="https://cdn.svgporn.com/logos/python.svg"  alt="Python"><code>Python</code></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/en-us/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/dotnet.svg" alt=".net"><code>.Net</code></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" height="26" width="26" src="https://cdn.svgporn.com/logos/javascript.svg"  alt="JavaScript"><code>Javascript</code></a>
-  <a href="https://html.spec.whatwg.org/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html"><code>HTML</code></a>
   <a href="https://www.mysql.com/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/mysql.svg"  alt="MySQL"><code>SQL</code></a>
 <a href="https://git-scm.com/"><img align="center" height="55" width="55" src="https://cdn.svgporn.com/logos/git.svg"  alt="Git" style="max-width:100%";><code>GIT</code></a>
 <a href="https://www.tensorflow.org/"><img align="center" src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" width="30" alt="Tensorflow"><code>Tensorflow</code></a>
+<a href="https://www.typescriptlang.org/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="TypeScript"><code>TypeScript</code></a>  
 <a href="https://reactjs.org/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/react.svg" height="30" alt="React"><code>React</code></a>
-<a href="https://www.typescriptlang.org/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="React"><code>TypeScript</code></a>  
 </div> 
 
 
