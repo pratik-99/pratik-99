@@ -24,7 +24,7 @@
 
 <h2 align="center"> About Me 🧑</h2>
 
-<p align="center" >💻I’m Currently looking for new opportunities. <br>📱I’m currently Learning React and C# for my projects.<br>5⭐ gold in python hackerrank </p>
+<p align="center" >💻I’m Currently looking for new opportunities. <br>📱Working on React and C# for my projects.<br>👨‍💻 Problem Solving with data structures and algorithm.<br>5⭐ gold in python hackerrank </p>
 
 
 
