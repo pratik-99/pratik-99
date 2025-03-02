@@ -2,22 +2,22 @@
 <h2 align="center">🔗Connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/pratik-poojary-8a30421b7/">
-  <img align="center" alt="Pratik's LinkedIn" width="22px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />
+  <img align="center" alt="Pratik's LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.hackerrank.com/ppoojary393/">
-  <img align="center" alt="Pratik's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Pratik's Hackerrank" width="90px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>&nbsp;  
 <a href="https://www.facebook.com/pratik.poojary.31/" >
-  <img align="center" alt="Pratik's Facebook" width="22px" src="https://cdn.svgporn.com/logos/facebook.svg" />
+  <img align="center" alt="Pratik's Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.instagram.com/pratik.poojary/">
-  <img align="center" alt="Pratik's Instagram" width="22px" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />
+  <img align="center" alt="Pratik's Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:ppoojary393@gmail.com">
-  <img align="center" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
+  <img align="center" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/pratik-99/">
- <img align="center" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
+ <img align="center" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="Open Source Love"/>
 </a>&nbsp;
 </p>  
 <br>
