@@ -58,11 +58,16 @@
 </a>
 </details>
 <details>
+<summary><b>Stats</b></summary>
+  <a href="https://github.com/pratik_99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik_99&theme=algolia" alt="Pratik's GitHub Streak"></a>
+</details>
+<details>  
 <summary><b>Summary</b></summary>
 <a href="https://github.com/pratik-99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-99&show_icons=true&theme=radical">
 </a>
 </details>
+
 
 <!--
 **pratik-99/pratik-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
