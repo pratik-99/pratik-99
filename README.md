@@ -11,6 +11,7 @@
 
 
 ## 🚀 About Me
+
 - 🔭 I’m currently working on building a Domain Specific language
 - 🌱 I’m learning AWS, PHP and Docker
 - 👨‍💻 Problem Solving **with data structures and algorithm.** 
@@ -30,12 +31,13 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-<a href="https://github.com/pratik-99/">
-  <img align="right" height="15%" width="15%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-</a>    
+ 
     
 
 ## Github Stats 📊
+  <a href="https://github.com/pratik-99/">
+  <img align="right" height="15%" width="15%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+</a> 
 <details>
 <summary><b>Most Used Languages</b></summary>
 <a href="https://github.com/pratik-99">
@@ -46,6 +48,7 @@
 <summary><b>Stats</b></summary>
   <a href="https://github.com/pratik_99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik_99&theme=algolia" alt="Pratik's GitHub Streak"></a>
 </details>
+ 
 <details>  
 <summary><b>Summary</b></summary>
 <a href="https://github.com/pratik-99">
@@ -53,9 +56,10 @@
 </a>
 </details>
 
-
+ 
 <!--
 **pratik-99/pratik-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> add this below About me
 
 Here are some ideas to get you started:
 
