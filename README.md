@@ -13,7 +13,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on building a Domain Specific language
 - 🌱 I’m learning AWS, PHP and Docker
-- 👨‍💻 Problem Solving **[with data structures and algorithm.]** 
+- 👨‍💻 Problem Solving **with data structures and algorithm.** 
 - 5⭐ gold in python hackerrank
 
 
