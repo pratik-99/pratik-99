@@ -1,5 +1,7 @@
 <h1 align="center"> Hey there !! This is PRATIK <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
+
+
 ## 🌍 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-poojary-8a30421b7/)
 [![Hackerrank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ppoojary393/)
@@ -56,11 +58,19 @@
 </a>
 </details>
 
- 
+
 <!--
 **pratik-99/pratik-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> add this below About me
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Open+Source+Contributor" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pratik-99&color=blue&style=for-the-badge)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratik-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
