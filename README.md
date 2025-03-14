@@ -25,6 +25,7 @@
 ## 🛠️ Tech Stack
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&borderRadius=20)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&borderRadius=20)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&borderRadius=20)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&borderRadius=20)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white&borderRadius=20)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&borderRadius=20)
