@@ -49,7 +49,7 @@
 </details>
 <details>
 <summary><b>Stats</b></summary>
-  <a href="https://github.com/pratik_99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik_99&theme=algolia" alt="Pratik's GitHub Streak"></a>
+  <a href="https://github.com/pratik-99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik_99&theme=algolia" alt="Pratik's GitHub Streak"></a>
 </details>
  
 <details>  
