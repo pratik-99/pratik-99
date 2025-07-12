@@ -40,7 +40,7 @@
 
 ## Github Stats 📊
   <a href="https://github.com/pratik-99/">
-  <img align="right" height="15%" width="15%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+  <img align="right" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </a> 
 <details>
 <summary><b>Most Used Languages</b></summary>
