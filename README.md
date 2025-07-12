@@ -15,8 +15,8 @@
 ## 🚀 About Me
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on building a Domain Specific language
-- 🌱 I’m learning AWS, PHP and Docker
+- 🔭 I’m currently working on monday.com
+- 🌱 I’m learning AWS, GraphQl, Docker
 - 👨‍💻 Problem Solving **with data structures and algorithm.** 
 - 5⭐ gold in python hackerrank
 
